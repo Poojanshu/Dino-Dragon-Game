@@ -8,6 +8,10 @@ The player controls a dinosaur that jumps over obstacles to score points and sur
 
 http://127.0.0.1:5500/
 
+~ Screenshots ~
+
+![Dino-Dragon-Game](https://github.com/Poojanshu/Dino-Dragon-Game/blob/main/Dragon%20Game%20SS1.png)
+
 ~ Features ~
 
 - Smooth jump animation
