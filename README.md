@@ -11,6 +11,7 @@ http://127.0.0.1:5500/
 ~ Screenshots ~
 
 ![Dino-Dragon-Game](https://github.com/Poojanshu/Dino-Dragon-Game/blob/main/Dragon%20Game%20SS1.png)
+![Dino-Dragon-Game]
 
 ~ Features ~
 
