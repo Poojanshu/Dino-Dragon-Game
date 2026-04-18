@@ -1,18 +1,18 @@
-# 🐉 Dino vs Dragon Game
+# Dino vs Dragon Game
 
 A fun and interactive **Dino Runner Game** built using **HTML, CSS, and JavaScript**.  
 Control the dinosaur, jump over dragons, and survive as long as possible while your score keeps increasing!
 
 ---
 
-## 🚀 Demo
+## Demo
 
 To run the game locally, use the **Live Server** extension in VS Code:
 [http://127.0.0.1:5500/](http://127.0.0.1:5500/)
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 * **⬆️ Up Arrow**: Jump
 * **➡️ Right Arrow**: Move forward
@@ -21,7 +21,7 @@ To run the game locally, use the **Live Server** extension in VS Code:
 
 ---
 
-## ✨ Features
+## Features
 
 * **Smooth Animations**: Fluid jumping and movement mechanics.
 * **Real-time Scoring**: Track your survival time in real-time.
@@ -31,7 +31,7 @@ To run the game locally, use the **Live Server** extension in VS Code:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **HTML5**: Game structure and elements.
 * **CSS3**: Styling, layout, and keyframe animations.
@@ -39,7 +39,7 @@ To run the game locally, use the **Live Server** extension in VS Code:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Dino-Dragon-Game/
@@ -56,7 +56,7 @@ Dino-Dragon-Game/
 ```
 ---
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 1. **Clone the repository:**
    ```bash
@@ -68,7 +68,7 @@ Dino-Dragon-Game/
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 * The dinosaur jumps using **CSS keyframe animation**
 * The dragon moves continuously using **infinite animation loop**
@@ -83,7 +83,7 @@ Dino-Dragon-Game/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Gameplay
 
@@ -95,17 +95,17 @@ Dino-Dragon-Game/
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
-* Restart button 🔄
-* Mobile responsiveness 📱
+* Restart button 
+* Mobile responsiveness 
 * Multiple obstacles
 * Power-ups & boosts
-* Leaderboard system 🏆
+* Leaderboard system 
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Poojanshu Sharma**
 
